@@ -6,7 +6,9 @@ Note: This project is an academic implementation created for learning and demons
 
 Features
 Register new land records (Admin only)
+
 Transfer land ownership securely
+
 Retrieve land details
 Check land registration status
 Delete land records (Admin or Current Owner)
