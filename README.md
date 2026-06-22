@@ -4,7 +4,7 @@ This smart contract provides a secure and transparent way to register land recor
 
 Note: This project is an academic implementation created for learning and demonstration purposes.
 
-##Features
+## Features
 
 -Register new land records (Admin only)
 -Transfer land ownership securely
@@ -15,7 +15,7 @@ Note: This project is an academic implementation created for learning and demons
 -Event logging for registration, transfer, and deletion
 -Immutable blockchain-based ownership records
 
-##How to Run
+## How to Run
 
 -Open Remix IDE.
 -Create a new Solidity file named LandRegistry.sol.
